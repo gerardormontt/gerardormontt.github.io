@@ -44,42 +44,38 @@
       ]
     },
     {
-      "name": "Computational mechanical",
+      "name": "Computational mechanics",
       "keywords": [
       ]
     }
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Design software",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Solidworks",
+        "Fusion360",
+        "Autodesk Inventor",
+        "Autocad"
       ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "printed 3d software",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "ultimaker Cura",
+        "simplifyy 3D",
+        
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "institution": "University of Tarapaca, Arica, Chile",
+      "area": "Mechanical engineer (expected Spring, 2020)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2016-03-14",
       "endDate": "Present",
       "gpa": "",
       "courses": [
