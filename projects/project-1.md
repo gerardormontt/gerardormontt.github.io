@@ -1,7 +1,7 @@
 ---
 layout: Trabajos
 type: Trabajos
-image: images/Msteck -1.jpeg
+image: 
 title: MSTECK SPA
 permalink: Trabajos/Msteck
 # All dates must be YYYY-MM-DD format!
