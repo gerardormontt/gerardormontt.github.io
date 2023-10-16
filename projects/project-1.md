@@ -5,7 +5,7 @@ image: images/Msteck -1.jpeg
 title: MSTECK SPA
 permalink: Trabajos/Msteck
 # All dates must be YYYY-MM-DD format!
-date: 2021-10-07 hasta 2023-02-28
+date: 2021-10-07 
 labels:
   - Mineria 
   - Ingenieria 
