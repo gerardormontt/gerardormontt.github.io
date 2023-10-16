@@ -1,6 +1,6 @@
 ---
-layout: Proyecto
-type: proyecto
+layout: Trabajos
+type: Trabajos
 image: images/Msteck -1.jpeg
 title: MSTECK SPA
 permalink: Trabajos/Msteck
