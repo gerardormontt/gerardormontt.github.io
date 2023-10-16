@@ -1,6 +1,6 @@
 ---
-layout: project
-type: project
+layout: Proyecto
+type: proyecto
 image: images/micromouse.jpg
 title: Micromouse
 permalink: projects/micromouse
