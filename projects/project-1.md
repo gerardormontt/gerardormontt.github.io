@@ -1,15 +1,15 @@
 ---
 layout: Proyecto
 type: proyecto
-image: images/micromouse.jpg
-title: Micromouse
-permalink: projects/micromouse
+image: images/Msteck -1.jpeg
+title: MSTECK SPA
+permalink: Trabajos/Msteck
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2021-10-07 hasta 2023-02-28
 labels:
-  - Robotics
-  - Arduino
-  - C++
+  - Mineria 
+  - Ingenieria 
+  - PRoyectos
 summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
 ---
 
